@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biplab038
-- 👀 I’m interested in website devolopment and app building.
-- 🌱 I’m currently learning php.
-- 💞️ I’m looking to collaborate on php devoloper.
+- 👀 I’m interested in software devolopment and app building.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on python devoloper.
 - 📫 My email id is biplabmaity038@gmail.com
 
 <!---
