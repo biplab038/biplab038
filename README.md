@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biplab038
-- 👀 I’m interested in software devolopment and app building.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python devoloper.
+- 👀 I’m interested in android devolopment and app building.
+- 🌱 I’m currently learning android studio.
+- 💞️ I’m looking to collaborate on android devoloper.
 - 📫 My email id is biplabmaity038@gmail.com
 
 <!---
